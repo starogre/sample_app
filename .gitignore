@@ -15,3 +15,6 @@
 /log/*
 !/log/.keep
 /tmp
+
+# Ignore Spring files. (using Spring with Guard) Check Box 3.4 of Hartl for more info if Spring processes accumulate and slow performance
+/spring/*.pid
